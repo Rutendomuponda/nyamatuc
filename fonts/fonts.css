@@ -1,0 +1,12 @@
+@font-face {
+    font-family: face;
+    src: url(./fonts/gotham/GothamBold.ttf);
+}
+@font-face {
+    font-family: papy;
+    src: url(./fonts/papyrus/PAPYRUS.TTF);
+}
+@font-face {
+    font-family: got;
+    src: url(./fonts/gotham/Gotham-Light.otf);
+}
